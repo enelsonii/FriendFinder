@@ -2,8 +2,8 @@
 
 var friends = [
     {
-       "name":"Ahmed",
-       "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+       "name":"Gargamel",
+       "photo":"https://upload.wikimedia.org/wikipedia/en/thumb/d/da/Gargamel_and_Azrael_from_the_Smurfs.jpg/250px-Gargamel_and_Azrael_from_the_Smurfs.jpg",
        "scores":[
           "5",
           "1",
@@ -18,8 +18,8 @@ var friends = [
        ]
     },
     {
-       "name":"Jacob Deming",
-       "photo":"https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
+       "name":"Skeletor",
+       "photo":"https://cdn-images-1.medium.com/max/1600/1*35hFGRrHKLN_H3QFur9P2A.gif",
        "scores":[
           "4",
           "2",
@@ -34,8 +34,8 @@ var friends = [
        ]
     },
     {
-       "name":"Jeremiah Scanlon",
-       "photo":"https://avatars2.githubusercontent.com/u/8504998?v=3&s=460",
+       "name":"Elon",
+       "photo":"https://boygeniusreport.files.wordpress.com/2018/11/9898977a-e1543253006278.jpg?quality=98&strip=all&w=782",
        "scores":[
           "5",
           "2",
@@ -50,8 +50,8 @@ var friends = [
        ]
     },
     {
-       "name":"Louis T. Delia",
-       "photo":"https://pbs.twimg.com/profile_images/639214960049000449/lNCRC-ub.jpg",
+       "name":"Will Smith",
+       "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYu2cRf_5zntvEA0HF-LoqREbzh7emeEPd-uD_F_X8FONMmowJ",
        "scores":[
           "3",
           "3",
@@ -66,8 +66,8 @@ var friends = [
        ]
     },
      {
-        "name":"Lou Ritter",
-        "photo":"https://m.facebook.com/photo.php?fbid=10208500699025296&id=1542229019&set=a.1549418665704.77596.1542229019&source=11",
+        "name":"Allen Iverson",
+        "photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Allen_Iverson_Lipofsky.jpg/220px-Allen_Iverson_Lipofsky.jpg",
         "scores":[
            "4",
            "3",
@@ -82,8 +82,8 @@ var friends = [
         ]
      },
      {
-        "name":"Jordan Biason",
-        "photo":"https://scontent-ord1-1.xx.fbcdn.net/v/t1.0-9/12741971_10205764267089153_4212986785721953092_n.jpg?oh=4e18265f7d380167223a97fbd7eba278&oe=57B78445",
+        "name":"Rihana",
+        "photo": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTQ3NjM5NjAyMDAwMTc2MjAy/pharrell_williams_photo_by_brian_bowen_nbcuniversal_getty_462041114.jpg",
         "scores":[
            "4",
            "4",
